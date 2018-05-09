@@ -103,3 +103,7 @@ ul,ol{
 a{
     display: inline-block;
 }
+.button-senators
+{
+    width: 160px;  
+}
